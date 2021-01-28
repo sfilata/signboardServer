@@ -1,0 +1,24 @@
+{
+  "name": "signboardserver",
+  "version": "1.0.0",
+  "description": "The server used to store the signgirls data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfilata/signboardServer.git"
+  },
+  "keywords": [
+    "server",
+    "data",
+    "live2d"
+  ],
+  "author": "sfilata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sfilata/signboardServer/issues"
+  },
+  "homepage": "https://github.com/sfilata/signboardServer#readme"
+}
